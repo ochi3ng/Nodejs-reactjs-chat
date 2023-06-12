@@ -1,0 +1,4 @@
+POST https://api.example.com/authenticate
+Content-Type: application/json
+
+{ "username":"zack" }
